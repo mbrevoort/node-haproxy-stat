@@ -11,7 +11,7 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "bin": {
-    "haproxystat": "cli.js"
+    "haproxystat": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
