@@ -2,7 +2,7 @@
   "author": "Mike Brevoort <mike@brevoort.com>",
   "name": "haproxy-stat",
   "description": "Simplify getting info an stats from a local haproxy stat file socket.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "dependencies": {
     "underscore": "latest",
     "mocha": "latest",
@@ -13,10 +13,9 @@
   "bin": {
     "haproxystat": "cli.js"
   },
-  "repository" :
-  { 
-    "type" : "git",
-    "url" : "https://github.com/mbrevoort/node-haproxy-stat.git"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mbrevoort/node-haproxy-stat.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha test/*.js"
