@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var colors = require('colors')
   , haproxystat = require('./lib/haproxystat')
   , command = process.argv[2]
