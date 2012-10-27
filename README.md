@@ -1,5 +1,5 @@
 
-Simplify getting info an stats from a local haproxy stat file socket.
+Simplify getting info and stats from a local haproxy stat file socket.
 
 [![build status](https://secure.travis-ci.org/mbrevoort/node-haproxy-stat.png)](http://travis-ci.org/mbrevoort/node-haproxy-stat)
 
