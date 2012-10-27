@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var colors = require('colors')
-  , haproxystat = require('./lib/haproxystat')
+  , haproxystat = require('../lib/haproxystat')
   , command = process.argv[2]
   , socketPath = process.argv[3];
 
