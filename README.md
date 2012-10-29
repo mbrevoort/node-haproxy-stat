@@ -1,4 +1,3 @@
-
 Simplify getting info and stats from a local haproxy stat file socket.
 
 [![build status](https://secure.travis-ci.org/mbrevoort/node-haproxy-stat.png)](http://travis-ci.org/mbrevoort/node-haproxy-stat)
@@ -244,7 +243,7 @@ results in:
 
 	./node_modueles/.bin/haproxystat
 
-or if installed globally:
+Or if installed globally:
 
 	npm install -g haproxy-stat
 	haproxystat
