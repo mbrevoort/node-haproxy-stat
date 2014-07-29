@@ -10,6 +10,7 @@
   },
   "devDependencies": {},
   "optionalDependencies": {},
+  "main": "./lib/haproxystat.js",
   "bin": {
     "haproxystat": "./bin/cli.js"
   },
